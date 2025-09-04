@@ -5,6 +5,11 @@
 </p>
 <p align="center">(source: Ken Perlin)</p>
 
+## Project description
+Typescript/OpenGL demo showcasing a morphing cube skinned with Worley Noise.
+[Page](https://rubenaryo.github.io/hw00-intro-base/)
+![](cube.png)
+
 ## Objective
 - Check that the tools and build configuration we will be using for the class works.
 - Start learning Typescript and WebGL2
